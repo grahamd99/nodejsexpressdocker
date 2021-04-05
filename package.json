@@ -1,0 +1,22 @@
+{
+  "name": "nodejsexpressdocker",
+  "version": "1.0.0",
+  "description": "Just a dockerised node.js express test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grahamd99/nodejsexpressdocker.git"
+  },
+  "author": "G4raham Dodsworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grahamd99/nodejsexpressdocker/issues"
+  },
+  "homepage": "https://github.com/grahamd99/nodejsexpressdocker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
